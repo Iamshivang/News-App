@@ -33,7 +33,7 @@ Our News Android application is your go-to source for staying informed about bot
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/News-App.git
+  https://github.com/Iamshivang/News-App.git
     ```
 
 2. Open the project in Android Studio.
